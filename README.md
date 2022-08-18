@@ -17,3 +17,5 @@ randomNumberGenerator(1, 100);
 The random number generator accepts tow parameters, min and max values.
 
 by defalt are 0, and 100.
+
+## https://www.npmjs.com/package/anchelrng
